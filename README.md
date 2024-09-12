@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andrelourenco99
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science at NOVA IMS
 - 📫 How to reach 20240743@novaims.unl.pt
 
 
